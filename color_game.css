@@ -1,0 +1,44 @@
+body {
+    background-color: #232323;
+}
+.square {
+    background-color: rgb(40, 90, 184);
+    width: 30%;
+    padding-bottom: 30%;
+    margin: 1.6%;
+    float: left;
+    border-radius: 25px;
+}
+.display-3 , h1 {
+    font-weight: 400;
+}
+.con1 {
+    background-color: rgb(40, 90, 184);
+}
+.con2 {
+    background-color: white;
+}
+p {
+    font-weight: 600;
+}
+h6 {
+    margin-bottom: 10px;
+}
+.holder1 {
+    max-width: 500px;
+    margin: 1rem auto;
+
+}
+.mode:hover , .selected {
+    background-color: rgb(40, 90, 184);
+    color: white;
+}
+.mode {
+    font-weight: 900;
+}
+.ans {
+    width: 5rem;
+}
+.colordisplay {
+    text-transform: uppercase;
+}
